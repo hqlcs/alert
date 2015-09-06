@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "repos": "https://github.com/hqlcs/alert",
+    "protocol":"github:hqlcs/alert",
+    "description": "A dialog",
+    "name": "alert",
+    "main": "alert.js",
+    "dependencies" : [
+    	"github:hqlcs/dialog"
+    ]
+}
